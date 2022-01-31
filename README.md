@@ -12,9 +12,9 @@ my kaggle : https://www.kaggle.com/yeonhxx
 
 |Test and Quiz|code|
 |:------:|:------:|
-|[태양광 발전량 예측](https://www.kaggle.com/c/2021-ml-quiz2-1)|[my code]|
-|[날씨 및 유동인구에 따른 교통량 추이](https://www.kaggle.com/c/2021-ml-quiz2-2)|[my code]|
-|[통신사 고객 이탈 예측](https://www.kaggle.com/c/2021-ml-quiz2-3)|[my code]|
-|[보스턴 주택 가격 예측](https://www.kaggle.com/c/2021-ml-quiz2-4)|[my code]|
-|[직원의 이직 희망 여부 예측](https://www.kaggle.com/c/2021-ml-quiz2-5)|[my code]|
-|[구내 식당 식수 예측](https://www.kaggle.com/c/2021mlfinalexamp3)|[my code]|
+|[태양광 발전량 예측](https://www.kaggle.com/c/2021-ml-quiz2-1)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%ED%83%9C%EC%96%91%EA%B4%91%EC%98%88%EC%B8%A1.ipynb)|
+|[날씨 및 유동인구에 따른 교통량 추이](https://www.kaggle.com/c/2021-ml-quiz2-2)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EA%B5%90%ED%86%B5%EB%9F%89%EC%98%88%EC%B8%A1.ipynb)|
+|[통신사 고객 이탈 예측](https://www.kaggle.com/c/2021-ml-quiz2-3)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%ED%86%B5%EC%8B%A0%EC%82%AC%EC%9D%B4%ED%83%88%EA%B3%A0%EA%B0%9D%EC%98%88%EC%B8%A1.ipynb)|
+|[보스턴 주택 가격 예측](https://www.kaggle.com/c/2021-ml-quiz2-4)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EB%B3%B4%EC%8A%A4%ED%84%B4%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.ipynb)|
+|[직원의 이직 희망 여부 예측](https://www.kaggle.com/c/2021-ml-quiz2-5)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EC%A7%81%EC%9B%90%20%EC%9D%B4%EC%A7%81%20%ED%9D%AC%EB%A7%9D%20%EC%97%AC%EB%B6%80%20%EC%98%88%EC%B8%A1.ipynb)|
+|[구내 식당 식수 예측](https://www.kaggle.com/c/2021mlfinalexamp3)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EA%B5%AC%EB%82%B4%20%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%98%88%EC%B8%A1.ipynb)|
