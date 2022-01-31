@@ -9,3 +9,12 @@ my kaggle : https://www.kaggle.com/yeonhxx
 |[음성 감정 인식](https://www.kaggle.com/c/2021-ml-tp-p6)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Term-project/%EC%9D%8C%EC%84%B1%EA%B0%90%EC%A0%95%EC%9D%B8%EC%8B%9D.ipynb)|
 |[산업환경상의 이상 상황 검출](https://www.kaggle.com/c/2021-ml-tp04)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Term-project/%EC%82%B0%EC%97%85%ED%99%98%EA%B2%BD%EC%83%81%EC%9D%98%20%EC%9D%B4%EC%83%81%20%EC%83%81%ED%99%A9%EA%B2%80%EC%B6%9C.ipynb)|
 |[비디오를 이용한 행동 분류](https://www.kaggle.com/c/2021-ml-tp4/overview)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Term-project/%EB%B9%84%EB%94%94%EC%98%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%96%89%EB%8F%99%20%EB%B6%84%EB%A5%98.ipynb)|
+
+|Test and Quiz|code|
+|:------:|:------:|
+|[태양광 발전량 예측](https://www.kaggle.com/c/2021-ml-quiz2-1)|[my code]|
+|[날씨 및 유동인구에 따른 교통량 추이](https://www.kaggle.com/c/2021-ml-quiz2-2)|[my code]|
+|[통신사 고객 이탈 예측](https://www.kaggle.com/c/2021-ml-quiz2-3)|[my code]|
+|[보스턴 주택 가격 예측](https://www.kaggle.com/c/2021-ml-quiz2-4)|[my code]|
+|[직원의 이직 희망 여부 예측](https://www.kaggle.com/c/2021-ml-quiz2-5)|[my code]|
+|[구내 식당 식수 예측](https://www.kaggle.com/c/2021mlfinalexamp3)|[my code]|
