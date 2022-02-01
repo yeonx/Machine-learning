@@ -19,4 +19,4 @@ my kaggle : https://www.kaggle.com/yeonhxx
 |[직원의 이직 희망 여부 예측](https://www.kaggle.com/c/2021-ml-quiz2-5)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EC%A7%81%EC%9B%90%20%EC%9D%B4%EC%A7%81%20%ED%9D%AC%EB%A7%9D%20%EC%97%AC%EB%B6%80%20%EC%98%88%EC%B8%A1.ipynb)|
 |[구내 식당 식수 예측](https://www.kaggle.com/c/2021mlfinalexamp3)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EA%B5%AC%EB%82%B4%20%EC%8B%9D%EB%8B%B9%20%EC%8B%9D%EC%88%98%20%EC%98%88%EC%B8%A1.ipynb)|
 |[심장 질환 환자 예측](https://www.kaggle.com/c/2021-ml-midterm-p1/overview)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EC%8B%AC%EC%9E%A5%EB%B3%91%EC%98%88%EC%B8%A1.ipynb)|
-|[손글씨 숫자 인식](https://www.kaggle.com/c/2021-ml-midterm-p3)|[my code]|
+|[손글씨 숫자 인식](https://www.kaggle.com/c/2021-ml-midterm-p3)|[my code](https://github.com/yeonx/Machine-learning/blob/main/Test%20and%20Quiz/%EC%86%90%EA%B8%80%EC%94%A8%EB%B6%84%EB%A5%98.ipynb)|
