@@ -1,5 +1,7 @@
 # Machine-learning
 
+수업 GitHub : https://github.com/sejongresearch/2021.MachineLearning
+
 my kaggle : https://www.kaggle.com/yeonhxx
 
 |Term-project|code|
