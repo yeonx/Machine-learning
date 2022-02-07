@@ -1,6 +1,9 @@
 # Machine-learning
 
-수업 GitHub : https://github.com/sejongresearch/2021.MachineLearning
+수업 GitHub : https://github.com/sejongresearch/2021.MachineLearning  
+
+`sklearn` `python` `pandas` `numpy`
+`colab` `kaggle` `slack` ...
 
 my kaggle : https://www.kaggle.com/yeonhxx
 
