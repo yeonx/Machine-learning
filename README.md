@@ -5,7 +5,7 @@
 `sklearn` `python` `pandas` `numpy`
 `colab` `kaggle` `slack` ...
 
-my kaggle : https://www.kaggle.com/yeonhxx
+my kaggle account : https://www.kaggle.com/yeonhxx
 
 |Term-project|code|
 |:------:|:------:|
